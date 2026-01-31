@@ -1,20 +1,14 @@
-[![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![lhr-666](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I am currently pursuing a Bachelor's degree in Artificial Intelligence at the School of Artificial Intelligence, Nanjing University.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>1278800411@qq.com</code>  
+<code>241300074@smail.nju.edu.cn</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Nanjing University**, Bachelor of Artificial Intelligence (2024 – 2028)  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
-
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Nanjing University**, Honours Bachelor of Artificial Intelligence (2024 – 2028)  
 
 #### Research Interests  
-XX, XX, XX, XX.
