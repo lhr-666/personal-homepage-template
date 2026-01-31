@@ -1,4 +1,4 @@
-[![lhr-666](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
+[![lhr-666](https://img.shields.io/badge/lhr-666-github-blue?logo=github)](https://github.com/lhr-666)
 
 I am currently pursuing a Bachelor's degree in Artificial Intelligence at the School of Artificial Intelligence, Nanjing University.
 
