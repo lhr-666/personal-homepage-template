@@ -9,6 +9,4 @@ I am currently pursuing a Bachelor's degree in Artificial Intelligence at the Sc
 #### Education  
 **Nanjing University**, Bachelor of Artificial Intelligence (2024 – 2028)  
 
-**Nanjing University**, Honours Bachelor of Artificial Intelligence (2024 – 2028)  
-
 #### Research Interests  
